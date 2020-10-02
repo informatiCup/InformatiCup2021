@@ -4,7 +4,7 @@
 
 Die [Gesellschaft für Informatik](https://gi.de) veranstaltet den [informatiCup](https://informaticup.github.io/) - im Jahr 2021 bereits im 16. Jahr in Folge.
 
-Der informatiCup 2021 widmet sich der Aufgabe das Spiel [spe_ed](https://github.com/InformatiCup/InformatiCup2021/blob/master/spe_ed.pdf) zu spielen.
+Der informatiCup 2021 widmet sich der Aufgabe, das Spiel [spe_ed](https://github.com/InformatiCup/InformatiCup2021/blob/master/spe_ed.pdf) zu spielen.
 
 Weitere Infos und einen Rückblick auf die 15 Wettbewerbsrunden seit dem Jahr 2005 gibt es auf der [offiziellen  informatiCup-Webseite](https://informaticup.github.io/).
 
