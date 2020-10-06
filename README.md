@@ -1,4 +1,4 @@
-![informatiCup2](https://user-images.githubusercontent.com/600435/66395975-fe4a4a00-e9d8-11e9-9b2b-1e24d52236f2.jpg)
+![informatiCup2](https://user-images.githubusercontent.com/600435/95178310-92ebb180-07bf-11eb-83bb-4e897e960e53.png)
 
 # informatiCup 2021 - spe_ed
 
