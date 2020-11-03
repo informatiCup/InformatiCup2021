@@ -1,10 +1,10 @@
-![informatiCup2](https://user-images.githubusercontent.com/600435/66395975-fe4a4a00-e9d8-11e9-9b2b-1e24d52236f2.jpg)
+![informatiCup2](https://user-images.githubusercontent.com/600435/95178310-92ebb180-07bf-11eb-83bb-4e897e960e53.png)
 
 # informatiCup 2021 - spe_ed
 
 Die [Gesellschaft für Informatik](https://gi.de) veranstaltet den [informatiCup](https://informaticup.github.io/) - im Jahr 2021 bereits im 16. Jahr in Folge.
 
-Der informatiCup 2021 widmet sich der Aufgabe, ... am 30. September geht es los!
+Der informatiCup 2021 widmet sich der Aufgabe, das Spiel [spe_ed](https://github.com/InformatiCup/InformatiCup2021/blob/master/spe_ed.pdf) zu spielen.
 
 Weitere Infos und einen Rückblick auf die 15 Wettbewerbsrunden seit dem Jahr 2005 gibt es auf der [offiziellen  informatiCup-Webseite](https://informaticup.github.io/).
 
@@ -12,7 +12,7 @@ Weitere Infos und einen Rückblick auf die 15 Wettbewerbsrunden seit dem Jahr 20
 
 The [German Informatics Society](https://gi.de) hosts the [informatiCup](https://informaticup.github.io/) collegiate computer science competition - in 2021 for the 16th consecutive time.
 
-The informatiCup 2021 is dedicated to the task ... get ready on September 30th!.
+The informatiCup 2021 is dedicated to the task of playing [spe_ed](https://github.com/InformatiCup/InformatiCup2021/blob/master/spe_ed.pdf).
 
 Further information and a retrospective on the 15 informatiCup competitions since 2005 are available on the [official informatiCup website](https://informaticup.github.io/).
 
