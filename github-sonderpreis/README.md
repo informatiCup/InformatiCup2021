@@ -2,7 +2,7 @@
 
 ![image](https://cloud.githubusercontent.com/assets/1872314/19119326/b43d4978-8b1f-11e6-9736-a31f92e75424.png)
 
-Wie jedes Jahr vergibt GitHub einen Sonderpreis auf dem InformatiCup.
+Wie [jedes Jahr](https://github.com/informatiCup/informatiCup2020/tree/master/github-sonderpreis) vergibt GitHub einen Sonderpreis auf dem InformatiCup.
 
 Unser Hauptziel ist es, dass eure Einreichungen nicht in einer virtuellen, privaten Schublade verrotten, sondern möglichst der gesamten EntwicklerInnen-Community zur Verfügung stehen.
 Daher bitten wir euch, falls ihr es noch nicht getan habt, eure Lösung, unabhängig davon ob ihr in die Endrunde gekommen seid oder nicht, in die untere Tabelle einzutragen.
@@ -23,6 +23,8 @@ Unser wichtigstes Ziel ist, dass möglich viele Lösungen hier vertreten sind, d
 * eine möglichst gutes [Community-Profile](https://github.com/github/opensource.guide/community)
 
 Bonus-Punkte gibt es für eine [GitHub-Page](https://guides.github.com/features/pages/) und den kreativen Einsatz von [GitHub Actions](https://github.com/features/actions).
+
+Tolle Beispiele findet ihr aus den Vorjahren, zum Beispiel [2020](https://github.com/informatiCup/informatiCup2020/tree/master/github-sonderpreis) oder [2017](https://github.com/informatiCup/informatiCup2017/tree/master/results).
 
 # Timeline
 
