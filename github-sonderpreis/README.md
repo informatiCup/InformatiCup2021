@@ -28,7 +28,7 @@ Bonus-Punkte gibt es für eine [GitHub-Page](https://guides.github.com/features/
 
 Da wir erst Ende März die Bewertungskriterien präzisiert haben, geben wir allen teilnehmenden Teams des InformatiCups (nicht nur Endrunde), die Möglichkeit bis Montag, 19. April 2021 einen [Pull-Request](https://github.com/informatiCup/informatiCup2021/edit/master/github-sonderpreis/README.md) mit Informationen zu ihrem GitHub-Projekt zu erstellen. Als Bewertungsgrundlage gilt der Zustand der GitHub-Repositories am 19. April 2021.
 
-Das Gewinner-Team wird in der zweiten April-Woche bekannt gegeben.
+Das Gewinner-Team wird am 22. April 2021 bekannt gegeben.
 
 # Fragen
 
