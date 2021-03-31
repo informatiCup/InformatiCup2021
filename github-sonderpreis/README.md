@@ -10,6 +10,7 @@ Mach einfach einen Pull-Request auf, wenn ihr diese Datei [editiert](https://git
 
 | University | Repo link                                                          | Presentation | GitHub handles                                  | Further remarks                                                                           |
 |------------|--------------------------------------------------------------------|--------------|-------------------------------------------------|-------------------------------------------------------------------------------------------|
+| DHBW Karlsruhe   | [Team Lehnurr](https://github.com/Lehnurr/spe-ed-solver)                          |[slides](https://github.com/Lehnurr/spe-ed-solver/tree/main/elaboration)    |[Felixleh](https://github.com/Felixleh), [SilasDerProfi](https://github.com/SilasDerProfi)                                     |                                                                               |
 | Your Uni   | [Short name](https://github.com/org/repo)                          |slide link    |your handles                                     |your remarks                                                                               |
 
 
