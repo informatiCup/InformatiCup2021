@@ -1,0 +1,27 @@
+[Unit]
+Description=spe_ed
+After=network-online.target
+Wants=network-online.target systemd-networkd-wait-online.service
+
+[Service]
+Restart=always
+User=speed
+Group=speed
+;Test run
+ExecStart=/home/speed/server -wait 1m -disableLogging -stats
+;Competition
+;ExecStart=/home/speed/server -logfile "speed.log" -stats
+
+PrivateTmp=true
+PrivateDevices=false
+ProtectSystem=full
+ReadDirectories=/home/speed/
+WorkingDirectory=/home/speed/
+NoNewPrivileges=true
+ProtectKernelModules=yes
+ProtectKernelTunables=true
+ProtectControlGroups=true
+
+[Install]
+WantedBy=multi-user.target
+
